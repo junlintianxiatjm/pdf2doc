@@ -26,4 +26,4 @@ wincertstore     0.2
 
 
 
-<img width="auto"  height="auto"  src="./虚拟环境截图（pdf转doc）.jpg" >
+<img width="100%"  height="100%"  src="./虚拟环境截图（pdf转doc）.jpg" >
